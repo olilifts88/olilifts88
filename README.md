@@ -14,7 +14,7 @@ The entry point to my wider AI engineering work. Applications, workflow examples
 
 ### Oli Skills
 
-![Oli Skills decision journey: branching choices for guidance, context, execution, permissions and verified capture](assets/oli-skills-decision-journey.png)
+![Oli Skills decision journey: branching choices for guidance, context, execution, permissions and verified capture](assets/oli-skills-decision-journey.png?v=2)
 
 A reusable agent-skills architecture currently in development. Small, focused instructions share common components for engineering, research, reporting and repository maintenance, with versioned guidance and staged rollout.
 
